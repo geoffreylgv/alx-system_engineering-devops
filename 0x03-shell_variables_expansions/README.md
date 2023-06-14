@@ -1,0 +1,3 @@
+## 0x03-shell_variables_expansions
+
+> task /scripts related to shell init file, variable ...
