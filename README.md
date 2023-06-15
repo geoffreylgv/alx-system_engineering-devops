@@ -5,7 +5,7 @@ I'm actually learning a full-stack engineering program at [ALX](https://alxafric
 This repo is a DevOps (SysAdmin/Software Engineering) scripts project - that stores basics and advanced (Regular expressions) shell commands.
 
 #### Fun fact
->Shell project - this repo is to write basic shell commands to do specific tasks. As a software engineer, you should be able to write, interpret, and deal with any Linux commands and operating system.
+>Thi DevOps project is to write basic shell commands to do specific tasks. As a software engineer, you should be able to write, interpret, and deal with any Linux commands and operating system.
 
 ##### Navigation
 coming soon
